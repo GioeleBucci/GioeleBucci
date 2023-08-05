@@ -23,7 +23,18 @@
 
 
 ### 🔥 My Stats 
+<p align="center">
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com?user=GioeleBucci&theme=transparent&hide_border=true&border=FB8C00&stroke=FFFFFF&ring=FB8C00&fire=FB8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&sideLabels=FB8C00&currStreakLabel=FB8C00"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com?user=GioeleBucci&theme=transparent&hide_border=true&border=FB8C00&stroke=000000&ring=FB8C00&fire=FB8C00&currStreakNum=000000&sideNums=000000&dates=000000&sideLabels=FB8C00&currStreakLabel=FB8C00"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=GioeleBucci&show_icons=true" />
+  </picture>
+</p>
 
-<div align="center">
-  <img src= "https://streak-stats.demolab.com?user=GioeleBucci&theme=transparent&hide_border=true&border=FB8C00&stroke=FFFFFF&ring=FB8C00&fire=FB8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&sideLabels=FB8C00&currStreakLabel=FB8C00"  />
-</div>
+

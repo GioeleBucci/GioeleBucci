@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=24&duration=3000&pause=2000&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+Hello+there%2C+welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=36&duration=3000&pause=2000&color=39FF14&center=true&vCenter=true&width=800&lines=%3E+Hello+there%2C+welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GioeleBucci.GioeleBucci&left_color=darkslategray&right_color=darkslategray"  />
 </p>
@@ -9,7 +9,7 @@
 > I'm a Computer Science student from Italy.
   I love developing games and I'm passionate about AIs and algorithms
 ```
-### 🛠 Languages and tools i use
+### 🛠 Languages and tools I use
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)

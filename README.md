@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=24&duration=3000&pause=2000&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+Hello+there%2C+welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
-  <br><br>
+  <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GioeleBucci.GioeleBucci&left_color=darkslategray&right_color=darkslategray"  />
 </p>
 
@@ -25,5 +25,5 @@
 ### 🔥 My Stats 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GioeleBucci&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src= "https://streak-stats.demolab.com?user=GioeleBucci&theme=transparent&hide_border=true&border=FB8C00&stroke=FFFFFF&ring=FB8C00&fire=FB8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&sideLabels=FB8C00&currStreakLabel=FB8C00"  />
 </div>

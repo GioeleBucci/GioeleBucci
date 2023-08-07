@@ -9,7 +9,7 @@
 > I'm a Computer Science student from Italy.
   I love game developing and I'm passionate about AIs and algorithms
 ```
-### 🛠 Languages and tools I use
+### 🛠 Languages and Tools I use
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)

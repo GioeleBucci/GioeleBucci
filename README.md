@@ -6,7 +6,7 @@
 
 ### 👩‍💻About Me
 ```bat
-> I'm a Computer Science student from Italy.
+> Computer Science student from Italy.
   I love game developing and I'm passionate about AIs and algorithms
 ```
 ### 🛠 Languages and Tools I use

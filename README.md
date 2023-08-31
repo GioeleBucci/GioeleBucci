@@ -37,4 +37,10 @@
   </picture>
 </p>
 
+<br>
+<p align="center">
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioeleBucci&layout=compact&theme=transparent"/>
+  </picture>
+</p>
 

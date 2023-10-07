@@ -30,6 +30,7 @@
       srcset="https://streak-stats.demolab.com?user=GioeleBucciERR&theme=transparent&hide_border=true&border=FB8C00&stroke=FFFFFF&ring=FB8C00&fire=FB8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&sideLabels=FB8C00&currStreakLabel=FB8C00"
       media="(prefers-color-scheme: dark)"
       onerror="this.style.display='none'"
+      alt=""
     />
     <source
       srcset="https://streak-stats.demolab.com?user=GioeleBucci&theme=transparent&hide_border=true&border=FB8C00&stroke=000000&ring=FB8C00&fire=FB8C00&currStreakNum=000000&sideNums=000000&dates=000000&sideLabels=FB8C00&currStreakLabel=FB8C00"

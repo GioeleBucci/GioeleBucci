@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=36&duration=3000&pause=2000&color=39FF14&center=true&vCenter=true&width=800&lines=%3E+Hello+there%2C+welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
   <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GioeleBucci.GioeleBucci&left_color=darkslategray&right_color=darkslategray"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GioeleBucci.GioeleBucci&left_color=darkslategray&right_color=darkslategray" alt=" " />
 </p>
 
 ### 👩‍💻About Me

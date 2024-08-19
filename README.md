@@ -8,7 +8,7 @@
 ```bat
 > Computer Science student from Italy.
   I love developing games and learning new things
-> Currently into: Functional programming
+> Currently studying at the Norwegian Institute of Science and Technology 
 ```
 ### 🛠 Languages & Tools
 

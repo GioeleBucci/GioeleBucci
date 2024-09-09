@@ -5,7 +5,7 @@
 </p>
 
 ### 👩‍💻About Me
-```bat
+```sh
 > Computer Science student from Italy.
   I love developing games and learning new things
 > Currently studying at the Norwegian Institute of Science and Technology 

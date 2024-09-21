@@ -25,6 +25,7 @@
 ![Gleam](https://img.shields.io/badge/-Gleam-d993cf?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### 🔥 My Stats 
 <p align="center">

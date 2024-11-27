@@ -7,8 +7,8 @@
 ### 👩‍💻About Me
 ```sh
 > Computer Science student from Italy.
-  I love developing games and learning new things
-> Currently studying at the Norwegian Institute of Science and Technology 
+  I love developing software and learning new things
+> Currently studying at the Norwegian Institute of Science and Technology (NTNU)
 ```
 ### 🛠 Languages & Tools
 

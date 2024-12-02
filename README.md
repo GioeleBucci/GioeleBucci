@@ -46,6 +46,6 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GioeleBucci&hide=cmake,make,tex,latex&layout=compact&theme=transparent&hide_border=true&hide=cmake&title_color=FB8C00&text_color=000000">
-    <img alt="dark-mode" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioeleBucci&layout=compact&theme=transparent&hide_border=true&hide=cmake,make,tex,latex&title_color=FB8C00&text_color=FFFFFF">
+    <img alt="dark-mode" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioeleBucci&layout=compact&theme=transparent&hide_border=true&hide=cmake,make,tex,latex,go&title_color=FB8C00&text_color=FFFFFF">
   </picture>
 </p>

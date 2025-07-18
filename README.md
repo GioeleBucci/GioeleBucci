@@ -8,6 +8,7 @@
 ```sh
 > Computer Science student from Italy.
 > I love developing software and learning new things
+> Currently working on my bachelor thesis and preparing for my first hackathon!
 ```
 ### 🛠 Languages & Tools
 

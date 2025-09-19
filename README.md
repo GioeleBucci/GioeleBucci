@@ -5,10 +5,10 @@
 </p>
 
 ### 👩‍💻About Me
-```sh
-> Computer Science student from Italy.
+```bat
+> Computer Science student from Italy
 > I love developing software and learning new things
-> Currently working on my bachelor thesis and preparing for my first hackathon!
+> Feel free to get in touch!
 ```
 ### 🛠 Languages & Tools
 
@@ -52,3 +52,4 @@
     <img alt="dark-mode" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioeleBucci&layout=compact&theme=transparent&hide_border=true&hide=cmake,make,tex,latex,go&title_color=FB8C00&text_color=FFFFFF">
   </picture>
 </p>
+
